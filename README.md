@@ -57,6 +57,7 @@ This project is a Python-based application designed to automate the creation, po
     │   │   └── Rapidgator.py
     │   │   └── Mexashare.py
     │   │   └── ... (other host modules)
+    │   ├── __init__.py
     │   ├── MainUI.py
     │   ├── Globalvar.py
     │   ├── ... (other .py files)
@@ -66,6 +67,7 @@ This project is a Python-based application designed to automate the creation, po
     │   └── newId             # File to store the next entry ID
     │   └── fixId             # File used by update_all logic
     │   └── log.txt           # Log file
+    ├── main.py               # Main start point of application
     ├── .env                  # (You will create this)
     └── README.md
     ```
