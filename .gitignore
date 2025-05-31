@@ -1,0 +1,10 @@
+.venv/
+images/
+temp/
+templates/
+__pycache__/
+
+*.pyc
+.env
+.idea
+newid

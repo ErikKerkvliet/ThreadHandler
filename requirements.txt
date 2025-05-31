@@ -1,0 +1,8 @@
+python-dotenv
+selenium
+pymysql
+chromedriver_autoinstaller
+tk
+tkinter-tooltip
+requests
+cryptography

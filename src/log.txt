@@ -1,0 +1,312 @@
+2025-05-31 21:08:33,534 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:08:33,542 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:08:50,907 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:08:50,915 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:09:27,819 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:09:27,827 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:15:17,326 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:15:17,335 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:17:42,223 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:17:42,231 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:25:58,776 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:25:58,783 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:33:01,571 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:33:01,576 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:33:09,184 - GlobalvarLogger_default - ERROR - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Please ensure it exists.
+2025-05-31 21:33:10,198 - GlobalvarLogger_default - INFO - Session started at: 21:33:10
+2025-05-31 21:33:10,199 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js
+2025-05-31 21:33:10,201 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 21:33:10,208 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 21:46:49,589 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: 0.
+2025-05-31 21:48:02,941 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:48:02,946 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:48:10,862 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:48:11,441 - GlobalvarLogger_default - INFO - Session started at: 21:48:11
+2025-05-31 21:48:11,444 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 21:48:11,445 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 21:48:11,445 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 21:48:15,807 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 21:48:16,336 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 21:48:16,419 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 21:48:16,423 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:48:16,509 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 21:48:16,510 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:48:16,593 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 21:48:23,246 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 21:48:23,704 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 21:48:23,706 - GlobalvarLogger_default - INFO - Fix mexashare links for comment: #
+2025-05-31 21:48:23,707 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 21:48:23,707 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 21:48:37,919 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 21:48:37,920 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/temp/overflow/downloads
+2025-05-31 21:56:12,900 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:56:12,905 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:56:27,732 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:56:28,433 - GlobalvarLogger_default - INFO - Session started at: 21:56:28
+2025-05-31 21:56:28,441 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 21:56:28,442 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 21:56:28,447 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 21:56:32,728 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 21:56:33,309 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 21:56:33,410 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 21:56:33,411 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:56:33,503 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 21:56:33,504 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:56:33,579 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 21:56:40,093 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 21:56:40,564 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 21:56:40,565 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 21:56:40,565 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 21:56:40,567 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 21:56:53,342 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 21:56:53,344 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/temp/overflow/downloads
+2025-05-31 21:56:55,184 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/1cdc69b09a476e0bf4656eefba2fdd98/E10228.part1.rar.html
+2025-05-31 21:59:11,350 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:59:11,355 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:59:17,237 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 21:59:17,817 - GlobalvarLogger_default - INFO - Session started at: 21:59:17
+2025-05-31 21:59:17,818 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 21:59:17,822 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 21:59:17,823 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 21:59:22,173 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 21:59:22,716 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 21:59:22,803 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 21:59:22,803 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:59:22,887 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 21:59:22,888 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 21:59:22,972 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 21:59:29,462 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 21:59:30,002 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 21:59:30,005 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 21:59:30,007 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 21:59:30,009 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 21:59:41,286 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 21:59:41,288 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/temp/overflow/downloads
+2025-05-31 21:59:42,917 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/1cdc69b09a476e0bf4656eefba2fdd98/E10228.part1.rar.html
+2025-05-31 22:01:06,366 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:01:06,370 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:01:14,177 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:01:14,184 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:01:18,228 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:01:18,786 - GlobalvarLogger_default - INFO - Session started at: 22:01:18
+2025-05-31 22:01:18,792 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 22:01:18,792 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 22:01:18,802 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 22:01:23,135 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 22:01:23,807 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 22:01:23,903 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 22:01:23,907 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:01:23,988 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 22:01:23,989 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:01:24,050 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 22:01:30,661 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 22:01:31,280 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 22:01:31,282 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 22:01:31,284 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 22:01:48,503 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 22:03:45,773 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:03:45,781 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:03:53,957 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:03:54,595 - GlobalvarLogger_default - INFO - Session started at: 22:03:54
+2025-05-31 22:03:54,602 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 22:03:54,602 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 22:03:54,603 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 22:03:58,912 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 22:03:59,586 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 22:03:59,688 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 22:03:59,688 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:03:59,799 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 22:03:59,804 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:03:59,887 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 22:04:06,436 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 22:04:06,893 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 22:04:06,894 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 22:04:06,895 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 22:04:12,389 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 22:09:43,370 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:09:43,379 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:09:52,367 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/newId. Using default/existing ID: None.
+2025-05-31 22:09:52,992 - GlobalvarLogger_default - INFO - Session started at: 22:09:52
+2025-05-31 22:09:52,993 - GlobalvarLogger_default - ERROR - jQuery file not found: /home/erik/PycharmProjects/CreateThread/src/includes/jquery.js. Ensure it exists.
+2025-05-31 22:09:52,998 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10228
+2025-05-31 22:09:52,999 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 22:09:57,577 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 22:09:58,046 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 22:09:58,127 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 22:09:58,139 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:09:58,233 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 22:09:58,234 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 22:09:58,307 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 22:10:04,921 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 22:10:05,432 - GlobalvarLogger_default - INFO - Starting with entry: 10228
+2025-05-31 22:10:05,435 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 22:10:05,436 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 22:10:11,028 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 22:10:22,942 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 22:10:22,943 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/temp/overflow/downloads
+2025-05-31 22:10:24,278 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/1cdc69b09a476e0bf4656eefba2fdd98/E10228.part1.rar.html
+2025-05-31 22:12:45,224 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/a7fcdd146fb358d947156140c25c6493/E10228.part2.rar.html
+2025-05-31 22:15:07,552 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/8d4de4b9c1bbfb1a8de7595da72d65e8/E10228.part3.rar.html
+2025-05-31 22:17:27,625 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/efd38043250ffd1ec48f72ba6c1c6bf0/E10228.part4.rar.html
+2025-05-31 22:19:47,602 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/d869c97d431a579ea33e2582f2048612/E10228.part5.rar.html
+2025-05-31 22:22:07,303 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/db48b4fb02d0007a2f637dd410883bfb/E10228.part6.rar.html
+2025-05-31 22:24:27,250 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/1dc5d1df314d66a819c28ecfcaa828c3/E10228.part7.rar.html
+2025-05-31 22:25:21,479 - GlobalvarLogger_default - INFO - Downloads successful
+2025-05-31 22:25:21,482 - GlobalvarLogger_default - INFO - Upload files to mexashare
+2025-05-31 22:25:21,485 - GlobalvarLogger_default - INFO - Log into https://mexa.sh
+2025-05-31 22:25:24,508 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 22:25:24,692 - GlobalvarLogger_default - INFO - Start uploading on https://mexa.sh
+2025-05-31 22:37:47,562 - GlobalvarLogger_default - INFO - Successfully uploaded 7 files
+2025-05-31 22:37:47,563 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 22:37:51,974 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 22:37:56,129 - GlobalvarLogger_default - INFO - Fix katfile links
+2025-05-31 22:37:56,129 - GlobalvarLogger_default - INFO - Upload files to katfile
+2025-05-31 22:37:56,130 - GlobalvarLogger_default - INFO - Log into https://katfile.com
+2025-05-31 22:37:58,532 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 22:37:58,533 - GlobalvarLogger_default - INFO - Starting upload
+2025-05-31 22:50:21,672 - GlobalvarLogger_default - INFO - Successfully uploaded 7 files
+2025-05-31 22:50:21,673 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 22:50:26,178 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 22:50:30,345 - GlobalvarLogger_default - INFO - Uploading images to TurboImageHost with thumb size 500
+2025-05-31 22:50:41,554 - GlobalvarLogger_default - WARNING - Element not found: 'imgCodeURF' (by id) after 3 retries.
+2025-05-31 22:50:41,567 - GlobalvarLogger_default - INFO - Uploading images to TurboImageHost with thumb size 180
+2025-05-31 23:13:44,799 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:13:44,807 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:13:50,151 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:13:51,109 - GlobalvarLogger_default - INFO - Session started at: 23:13:51
+2025-05-31 23:13:51,130 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10231
+2025-05-31 23:13:51,131 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 23:13:51,542 - GlobalvarLogger_default - INFO - Making connection with the DB
+2025-05-31 23:13:51,544 - GlobalvarLogger_default - INFO - Connection established
+2025-05-31 23:13:55,950 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 23:13:56,351 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 23:13:56,461 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 23:13:56,473 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:13:56,581 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 23:13:56,595 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:13:56,667 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 23:14:03,062 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/temp/overflow/images
+2025-05-31 23:14:03,091 - GlobalvarLogger_default - INFO - Starting with entry: 10231
+2025-05-31 23:14:03,092 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 23:14:03,092 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 23:14:03,094 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 23:14:14,299 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:14:14,303 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/temp/overflow/downloads
+2025-05-31 23:14:15,342 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/7591562981722bf4bb8e070167c36801/E10231.part1.rar.html
+2025-05-31 23:15:05,402 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/7eacc84f14828db869fff8ce3ba7c312/E10231.part2.rar.html
+2025-05-31 23:15:49,174 - GlobalvarLogger_default - INFO - Downloads successful
+2025-05-31 23:15:49,175 - GlobalvarLogger_default - INFO - Upload files to mexashare
+2025-05-31 23:15:49,179 - GlobalvarLogger_default - INFO - Log into https://mexa.sh
+2025-05-31 23:15:51,907 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:15:52,070 - GlobalvarLogger_default - INFO - Start uploading on https://mexa.sh
+2025-05-31 23:17:13,344 - GlobalvarLogger_default - INFO - Successfully uploaded 2 files
+2025-05-31 23:17:13,346 - GlobalvarLogger_default - INFO - Edit links at http://localhost
+2025-05-31 23:17:17,689 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 23:17:22,032 - GlobalvarLogger_default - INFO - Fix katfile links
+2025-05-31 23:17:22,033 - GlobalvarLogger_default - INFO - Upload files to katfile
+2025-05-31 23:17:22,035 - GlobalvarLogger_default - INFO - Log into https://katfile.com
+2025-05-31 23:17:24,020 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:17:24,021 - GlobalvarLogger_default - INFO - Starting upload
+2025-05-31 23:18:45,828 - GlobalvarLogger_default - INFO - Successfully uploaded 2 files
+2025-05-31 23:18:45,829 - GlobalvarLogger_default - INFO - Edit links at http://localhost
+2025-05-31 23:18:49,981 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 23:18:54,174 - GlobalvarLogger_default - INFO - Uploading images to TurboImageHost with thumb size 500
+2025-05-31 23:19:05,659 - GlobalvarLogger_default - WARNING - Element not found: 'imgCodeURF' (by id) after 3 retries.
+2025-05-31 23:19:05,682 - GlobalvarLogger_default - INFO - Uploading images to TurboImageHost with thumb size 180
+2025-05-31 23:25:59,361 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:25:59,368 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:26:03,961 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:26:04,577 - GlobalvarLogger_default - INFO - Session started at: 23:26:04
+2025-05-31 23:26:04,606 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10230
+2025-05-31 23:26:04,607 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 23:26:04,607 - GlobalvarLogger_default - INFO - Making connection with the DB
+2025-05-31 23:26:04,608 - GlobalvarLogger_default - INFO - Connection established
+2025-05-31 23:26:08,932 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 23:26:09,526 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 23:26:09,696 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 23:26:09,701 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:26:09,774 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 23:26:09,774 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:26:09,844 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 23:26:16,167 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/../temp/overflow/images
+2025-05-31 23:26:16,262 - GlobalvarLogger_default - INFO - Starting with entry: 10230
+2025-05-31 23:26:16,262 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 23:26:16,263 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 23:26:16,263 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 23:26:28,227 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:26:28,229 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/../temp/overflow/downloads
+2025-05-31 23:26:30,142 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/f3d295378f609669032961e599c11622/E10230.part1.rar.html
+2025-05-31 23:33:04,643 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:33:04,650 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:33:32,142 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:33:32,754 - GlobalvarLogger_default - INFO - Session started at: 23:33:32
+2025-05-31 23:33:32,777 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10230
+2025-05-31 23:33:32,778 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 23:33:32,779 - GlobalvarLogger_default - INFO - Making connection with the DB
+2025-05-31 23:33:32,780 - GlobalvarLogger_default - INFO - Connection established
+2025-05-31 23:33:37,539 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 23:33:37,996 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 23:33:38,132 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 23:33:38,132 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:33:38,240 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 23:33:38,240 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:33:38,312 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 23:33:44,694 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/src/../temp/overflow/images
+2025-05-31 23:33:44,736 - GlobalvarLogger_default - INFO - Starting with entry: 10230
+2025-05-31 23:33:44,736 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 23:33:44,741 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 23:33:44,741 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 23:33:55,270 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:33:55,273 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/src/../temp/overflow/downloads
+2025-05-31 23:33:57,002 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/f3d295378f609669032961e599c11622/E10230.part1.rar.html
+2025-05-31 23:40:44,059 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:40:44,066 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:40:53,143 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-05-31 23:40:53,681 - GlobalvarLogger_default - INFO - Session started at: 23:40:53
+2025-05-31 23:40:53,706 - GlobalvarLogger_default - INFO - Processing threads with IDs: 10230
+2025-05-31 23:40:53,706 - GlobalvarLogger_default - INFO - Clear temporary folders
+2025-05-31 23:40:53,707 - GlobalvarLogger_default - INFO - Making connection with the DB
+2025-05-31 23:40:53,708 - GlobalvarLogger_default - INFO - Connection established
+2025-05-31 23:40:57,997 - GlobalvarLogger_default - INFO - Checking links on https://rapidgator.net
+2025-05-31 23:40:59,939 - GlobalvarLogger_default - INFO - Files all found
+2025-05-31 23:41:00,061 - GlobalvarLogger_default - INFO - Checking links on https://mexa.sh
+2025-05-31 23:41:00,062 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:41:00,163 - GlobalvarLogger_default - INFO - Checking links on https://katfile.com
+2025-05-31 23:41:00,184 - GlobalvarLogger_default - INFO - No links are given
+2025-05-31 23:41:00,248 - GlobalvarLogger_default - INFO - Get data from Hcapital
+2025-05-31 23:41:06,580 - GlobalvarLogger_default - INFO - Downloading images to: /home/erik/PycharmProjects/CreateThread/temp/overflow/images
+2025-05-31 23:41:06,615 - GlobalvarLogger_default - INFO - Starting with entry: 10230
+2025-05-31 23:41:06,616 - GlobalvarLogger_default - INFO - Fix mexashare links
+2025-05-31 23:41:06,616 - GlobalvarLogger_default - INFO - Download: Default Links
+2025-05-31 23:41:06,620 - GlobalvarLogger_default - INFO - Log into https://rapidgator.net
+2025-05-31 23:41:18,506 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:41:18,508 - GlobalvarLogger_default - INFO - Downloading file(s) to: .//home/erik/PycharmProjects/CreateThread/temp/overflow/downloads
+2025-05-31 23:41:20,289 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/f3d295378f609669032961e599c11622/E10230.part1.rar.html
+2025-05-31 23:42:52,278 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/844281e8a37a961a7e948ee07de4d7b4/E10230.part2.rar.html
+2025-05-31 23:44:25,824 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/f51b094fcbb561609d38a03e6fcf65cb/E10230.part3.rar.html
+2025-05-31 23:45:57,161 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/17fd88d1bedcd3b08d8c8e1c24813340/E10230.part4.rar.html
+2025-05-31 23:47:29,303 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/7d1cb346a27914c6918120d313e273fe/E10230.part5.rar.html
+2025-05-31 23:49:01,113 - GlobalvarLogger_default - INFO - https://rapidgator.net/file/850e7e6413a3f9aa90f42c889a3946b3/E10230.part6.rar.html
+2025-05-31 23:50:13,492 - GlobalvarLogger_default - INFO - Downloads successful
+2025-05-31 23:50:13,495 - GlobalvarLogger_default - INFO - Upload files to mexashare
+2025-05-31 23:50:13,498 - GlobalvarLogger_default - INFO - Log into https://mexa.sh
+2025-05-31 23:50:15,853 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:50:16,013 - GlobalvarLogger_default - INFO - Start uploading on https://mexa.sh
+2025-05-31 23:58:08,138 - GlobalvarLogger_default - INFO - Successfully uploaded 6 files
+2025-05-31 23:58:08,141 - GlobalvarLogger_default - INFO - Edit links at http://localhost
+2025-05-31 23:58:12,362 - GlobalvarLogger_default - INFO - Edit links at http://www.hcapital.tk
+2025-05-31 23:58:16,663 - GlobalvarLogger_default - INFO - Fix katfile links
+2025-05-31 23:58:16,663 - GlobalvarLogger_default - INFO - Upload files to katfile
+2025-05-31 23:58:16,664 - GlobalvarLogger_default - INFO - Log into https://katfile.com
+2025-05-31 23:58:18,817 - GlobalvarLogger_default - INFO - Login successful
+2025-05-31 23:58:18,818 - GlobalvarLogger_default - INFO - Starting upload
+2025-06-01 00:24:28,728 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:24:28,732 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:25:21,263 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:25:21,267 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:25:56,030 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:25:56,035 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:27:05,395 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:27:05,399 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/CreateThread/src/../newId. Using default/existing ID: None.
+2025-06-01 00:40:23,451 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/ThreadHandler/src/../newId. Using default/existing ID: None.
+2025-06-01 00:40:23,455 - GlobalvarLogger_default - WARNING - ID file not found: /home/erik/PycharmProjects/ThreadHandler/src/../newId. Using default/existing ID: None.
